@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{9AE8D4D4-B179-4759-A7A2-F22A21AFE7DF}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="..\ServidorPrincipal\ServidorPrincipal.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="LembrarMe.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ServidorPrincipal">
+        <MSBuild Projects="..\ServidorPrincipal\ServidorPrincipal.dproj"/>
+    </Target>
+    <Target Name="ServidorPrincipal:Clean">
+        <MSBuild Projects="..\ServidorPrincipal\ServidorPrincipal.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ServidorPrincipal:Make">
+        <MSBuild Projects="..\ServidorPrincipal\ServidorPrincipal.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="LembrarMe">
+        <MSBuild Projects="LembrarMe.dproj"/>
+    </Target>
+    <Target Name="LembrarMe:Clean">
+        <MSBuild Projects="LembrarMe.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LembrarMe:Make">
+        <MSBuild Projects="LembrarMe.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ServidorPrincipal;LembrarMe"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ServidorPrincipal:Clean;LembrarMe:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ServidorPrincipal:Make;LembrarMe:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

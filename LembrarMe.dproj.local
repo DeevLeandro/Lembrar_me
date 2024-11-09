@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/15 11:34:14.000.597,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 13:27:12.000.390,=emsserverapi.dcp</Transaction>
+    <Transaction>2024/07/10 13:27:13.000.398,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/06 22:18:11.000.837,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/06 22:19:19.000.225,C:\Users\Geral\Documents\Lembrar-me\FrmPrincipal.fmx=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/09/06 22:19:19.000.225,C:\Users\Geral\Documents\Lembrar-me\FrmPrincipal.pas=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/06 22:20:14.000.909,C:\Users\Geral\Documents\Lembrar-me\LembrarMe.dproj=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/14 11:56:06.000.429,=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/14 11:57:04.000.698,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.dfm=C:\Users\Geral\Documents\Lembrar-me\Unit1.dfm</Transaction>
+    <Transaction>2024/09/14 11:57:04.000.698,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/14 13:27:51.000.290,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas=</Transaction>
+    <Transaction>2024/09/14 13:30:55.000.044,=C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas</Transaction>
+    <Transaction>2024/09/14 13:34:53.000.835,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas=</Transaction>
+    <Transaction>2024/09/14 13:35:19.000.017,=C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas</Transaction>
+    <Transaction>2024/09/14 13:35:45.000.447,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas=</Transaction>
+    <Transaction>2024/09/14 13:37:18.000.386,=C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas</Transaction>
+    <Transaction>2024/09/14 13:58:59.000.500,=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/14 14:00:18.000.987,C:\Users\Geral\Documents\Lembrar-me\udmPrincipal.pas=</Transaction>
+    <Transaction>2024/09/14 14:00:39.000.581,C:\Users\Geral\Documents\Lembrar-me\Unit1.pas=C:\Users\Geral\Documents\Lembrar-me\dmPrincipal.pas</Transaction>
+    <Transaction>2024/09/14 14:00:39.000.581,C:\Users\Geral\Documents\Lembrar-me\Unit1.dfm=C:\Users\Geral\Documents\Lembrar-me\dmPrincipal.dfm</Transaction>
+    <Transaction>2024/09/16 19:02:34.000.012,=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 19:56:48.000.040,C:\Users\Geral\Documents\Lembrar-me\FrmLogin.fmx=C:\Users\Geral\Documents\Lembrar-me\Unit1.fmx</Transaction>
+    <Transaction>2024/09/16 19:56:48.000.040,C:\Users\Geral\Documents\Lembrar-me\FrmLogin.pas=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 14:27:12.000.362,=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 14:30:56.000.260,C:\Users\Geral\Documents\Lembrar-me\Frame\FremListaLembranca.fmx=C:\Users\Geral\Documents\Lembrar-me\Unit1.fmx</Transaction>
+    <Transaction>2024/09/19 14:30:56.000.260,C:\Users\Geral\Documents\Lembrar-me\Frame\FremListaLembranca.pas=C:\Users\Geral\Documents\Lembrar-me\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
